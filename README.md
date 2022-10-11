@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alican
+- 🌱 I’m currently learning .Net Core
+- 📫 Im Computer Engineering Student
