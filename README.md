@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alican
 - 🌱 I’m currently learning .Net Core
-- 📫 Im Computer Engineering Student
+- 📫 Im studying Computer Engineering in Trakya University 
