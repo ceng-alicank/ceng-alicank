@@ -13,9 +13,7 @@
 ### 🛠 Tech Stack
 - 💻 Languages: `C#`, `Python`, `SQL`, `HTML`, `CSS`, `JavaScript`
 - 🚀 Backend: `.NET Core`, `.NET Framework`, `Laravel`,
-- 🗃️ Databases: `MS SQL`, `MySQL`
-- 🧰 Tools: `Visual Studio`, `VS Code`, `Git`, `Postman`
-- 📡 Messaging: `RabbitMQ (basic level)`, `AJAX`, `jQuery`
+
 
 ---
 
