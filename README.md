@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack
 - 💻 Languages: `C#`, `Python`, `SQL`, `HTML`, `CSS`, `JavaScript`
-- 🚀 Backend: `.NET Core`, `.NET Framework`, `Laravel`,
+- 🚀 Backend: `.NET Core`, `Laravel`,
 
 
 ---
