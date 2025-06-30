@@ -6,7 +6,6 @@
 🔹 I’m a passionate .NET developer who loves building scalable and maintainable backend applications.  
 🔹 Focused on clean architecture principles like **CQRS**, **Onion Architecture**, and **Domain-Driven Design**.  
 🔹 Actively learning and improving through real-world projects and remote work experiences.  
-🔹 Interested in game-related backend systems and performance optimization.
 
 
 
